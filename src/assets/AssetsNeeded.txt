@@ -1,0 +1,8 @@
+Assets Needed:
+-Player Moving left,right,up,down -  Done
+-Inventory with 4x4 slots  -  Done
+-Font letters from a-z, A-Z, 0-9, and !?:+-.,$#&()\'"   -  Done
+-Health bar  -  Done
+-Gold symbol  -  Done
+-Selection arrow to indicated slected option in menu  -  Done
+-Different Tiles: 16x16 Grass and Stone  -  Done
